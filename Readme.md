@@ -1,0 +1,1 @@
+This is a begainer level Web Development project made with pure Html, CSS,JS.
